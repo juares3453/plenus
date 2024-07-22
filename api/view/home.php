@@ -384,7 +384,7 @@
 
 			<div class="flex-grow-1">
 				<a class="navbar-brand">
-					<img src="assets/img/logo.png" height="55" alt="plenus logo"/>
+					<img src="../assets/img/logo.png" height="55" alt="plenus logo"/>
 				</a>
 			</div>
 
