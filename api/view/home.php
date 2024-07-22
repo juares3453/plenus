@@ -322,7 +322,7 @@
 </head>
 <body>
 
-    <?php include 'menu.php'; ?>
+    <?php include '/api/view/menu.php'; ?>
 
     <div class="row" id="general-content">
         <div class="container-fluid" id="img-fundo-top">
@@ -397,7 +397,7 @@
         </div>
     </div>
 
-    <?php include 'footer.php'; ?>
+    <?php include 'api/view/footer.php'; ?>
 
     <script>
         window.onload = function() {
