@@ -397,7 +397,7 @@
         </div>
     </div>
 
-    <?php include 'api/view/footer.php'; ?>
+    <?php include '/view/footer.php'; ?>
 
     <script>
         window.onload = function() {
