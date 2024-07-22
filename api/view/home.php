@@ -13,6 +13,56 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
 
     <style>
+		#navBar {
+			background-color: rgba(59, 59, 58, 0.7) !important;
+		}
+
+		#icon-social {
+			width: 20px;
+			padding-right: 0px;
+		}
+
+		.nav-link {
+			color: rgba(252, 252, 252, 0.8) !important;
+		}
+
+		.nav-link:hover {
+			color: white !important;
+		}
+
+		#separacao {
+			margin-top: -2px !important;
+		}
+		footer {
+			background-color: #29213C;
+			margin-bottom: 0px;
+			width: 100%;
+		}
+
+		.container-footer {
+			max-width: 1200px;
+			margin: 0 auto;
+			text-align: center;
+			padding: 20px 0;
+			color: white;
+		}
+
+		.container-footer img {
+			display: block;
+			margin: 20px auto 30px;
+			max-width: 100%;
+			max-height: 50px;
+			width: auto;
+			height: auto;
+		}
+
+		.company-info {
+			margin-bottom: 20px;
+		}
+
+		.company-info p {
+			margin: 0;
+		}
         #general-content {
             max-width: 1920px;
             padding-right: 0px;
