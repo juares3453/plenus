@@ -76,7 +76,7 @@
             flex-direction: row;
             background-size: cover;
             height: 1200px;
-            background-image: url(./fundo-top-home.png);
+            background-image: url(/fundo-top-home.png);
             background-repeat: no-repeat;
             background-position: center center;
             color: #fff;
@@ -139,7 +139,7 @@
         #img-fundo-center {
             background-size: cover;
             height: 850px;
-            background-image: url(./fundo-center-home.png);
+            background-image: url(/fundo-center-home.png);
             background-repeat: no-repeat;
             background-position: center center;
             color: #fff;
@@ -290,7 +290,7 @@
         .img-arrow-bottom {
             height: 150px;
             background-color: white;
-            background-image: url(./click-here.png);
+            background-image: url(/click-here.png);
             background-size: contain;
             background-position: center;
             background-repeat: no-repeat;
@@ -384,7 +384,7 @@
 
 			<div class="flex-grow-1">
 				<a class="navbar-brand">
-					<img src="./logo.png" height="55" alt="plenus logo"/>
+					<img src="/logo.png" height="55" alt="plenus logo"/>
 				</a>
 			</div>
 
@@ -421,17 +421,17 @@
 				<ul class="navbar-nav d-flex flex-row">
 					<li class="nav-item me-2 me-lg-0">
 						<a class="nav-link" href="#">
-							<img src="./icon_wpp.png" id="icon-social">
+							<img src="/icon_wpp.png" id="icon-social">
 						</a>
 					</li>
 					<li class="nav-item me-2 me-lg-0">
 						<a class="nav-link" href="#">
-							<img src="./icon_insta.png" id="icon-social">
+							<img src="/icon_insta.png" id="icon-social">
 						</a>
 					</li>
 					<li class="nav-item me-2 me-lg-0">
 						<a class="nav-link" href="#">
-							<img src="./icon_face.png" id="icon-social">
+							<img src="/icon_face.png" id="icon-social">
 						</a>
 					</li>
 				</ul>
@@ -485,7 +485,7 @@
                         </div>
                     </div>
                     <div class="container-img-fundo-center">
-                        <img src="./fundo-1.png" alt="Image">
+                        <img src="/fundo-1.png" alt="Image">
                     </div>
                 </div>
             </div>
@@ -517,7 +517,7 @@
 
 	<footer>
 		<div class="container-footer">
-			<img src="./logo.png" alt="Logo da empresa">
+			<img src="/logo.png" alt="Logo da empresa">
 			<div class="company-info">
 				<p>Endereço: R. Benjamin Constant, 224, Centro, Bento Gonçalves - RS</p>
 				<p>De Segunda a sexta-feira, das 08:30 até 17:30 sem fechar ao meio dia.</p>
