@@ -139,7 +139,7 @@
         #img-fundo-center {
             background-size: cover;
             height: 850px;
-            background-image: url(/fundo-center-home.png);
+            background-image: url(arquivos/IMAGENS/fundo-center-home.png);
             background-repeat: no-repeat;
             background-position: center center;
             color: #fff;
