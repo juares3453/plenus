@@ -1,28 +1,17 @@
 {
+  "version": 2,
+  "framework": null,
   "functions": {
-    "api/*.php": {
-      "runtime": "vercel-php@0.6.0"
-    }
+    "api/index.php": { "runtime": "vercel-php@0.6.0" }
   },
-  "rewrites": [
+  "routes": [
     {
-      "source": "/api/(.*)",
-      "destination": "/api/$1"
+      "src": "/arquivos/IMAGENS/fundo-center-home.png",
+      "dest": "api/arquivos/IMAGENS/fundo-center-home.png"
     },
     {
-      "source": "/(.*)",
-      "destination": "/index.php"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/html; charset=UTF-8"
-        }
-      ]
+      "src": "/(.*)",
+      "dest": "/api/index.php"
     }
   ]
 }
