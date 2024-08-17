@@ -76,7 +76,7 @@
             flex-direction: row;
             background-size: cover;
             height: 1200px;
-            background-image: url(/api/arquivos/imagens/fundo-top-home.png);
+            background-image: url(/arquivos/imagens/fundo-top-home.png);
             background-repeat: no-repeat;
             background-position: center center;
             color: #fff;
