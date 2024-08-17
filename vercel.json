@@ -6,15 +6,5 @@
     "api/view/home.php": { "runtime": "vercel-php@0.6.0" },
     "api/view/sobre.php": { "runtime": "vercel-php@0.6.0" },
     "api/view/contato.php": { "runtime": "vercel-php@0.6.0" }
-  },
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    },
-    {
-      "source": "/api/arquivos/imagens/fundo-center-home.png",
-      "destination": "/arquivos/imagens/fundo-center-home.png"
-    }
-  ]
+  }
 }
