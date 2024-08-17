@@ -76,7 +76,7 @@
             flex-direction: row;
             background-size: cover;
             height: 1200px;
-            background-image: url(/arquivos/imagens/fundo-top-home.png);
+            background-image: url(arquivos/imagens/fundo-top-home.png);
             background-repeat: no-repeat;
             background-position: center center;
             color: #fff;
@@ -139,7 +139,7 @@
         #img-fundo-center {
             background-size: cover;
             height: 850px;
-            background-image: url(/api/arquivos/imagens/fundo-center-home.png);
+            background-image: url(arquivos/imagens/fundo-center-home.png);
             background-repeat: no-repeat;
             background-position: center center;
             color: #fff;
@@ -290,7 +290,7 @@
         .img-arrow-bottom {
             height: 150px;
             background-color: white;
-            background-image: url(/api/arquivos/icones/click-here.png);
+            background-image: url(arquivos/icones/click-here.png);
             background-size: contain;
             background-position: center;
             background-repeat: no-repeat;
