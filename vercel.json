@@ -8,6 +8,10 @@
     {
       "src": "/arquivos/IMAGENS/fundo-center-home.png",
       "dest": "api/arquivos/IMAGENS/fundo-center-home.png"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/"
     }
   ]
 }
